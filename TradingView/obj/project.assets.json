@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asutaka\\source\\repos\\TradingView\\TradingView\\TradingView.csproj",
+      "projectUniqueName": "D:\\Data\\TradingView\\TradingView\\TradingView.csproj",
       "projectName": "TradingView",
-      "projectPath": "C:\\Users\\asutaka\\source\\repos\\TradingView\\TradingView\\TradingView.csproj",
+      "projectPath": "D:\\Data\\TradingView\\TradingView\\TradingView.csproj",
       "packagesPath": "C:\\Users\\asutaka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asutaka\\source\\repos\\TradingView\\TradingView\\obj\\",
+      "outputPath": "D:\\Data\\TradingView\\TradingView\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\asutaka\\AppData\\Roaming\\NuGet\\NuGet.Config",
